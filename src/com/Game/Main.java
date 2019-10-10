@@ -17,7 +17,7 @@ public class Main {
         newFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         newFrame.add(gamePanel);
 
-	//GameFrame newGame = new GameFrame();
+
 
 
     }
